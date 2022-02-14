@@ -1,3 +1,4 @@
 File 001
 Second line
 Line 3 comment: KTM-6 #comment new
+Line 4 comment in the message: KTM-6 #comment new
