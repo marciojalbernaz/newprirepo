@@ -3,3 +3,4 @@ Adding a seconf line KTM-6 #comment whatever in text
 a
 bbbb
 test with tmp
+Now with newtest KTM-6
