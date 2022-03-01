@@ -1,1 +1,2 @@
 added in CMKB-15 branch
+Smart commit with several lines comment
