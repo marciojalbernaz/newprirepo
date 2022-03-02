@@ -4,3 +4,5 @@ a
 bbbb
 test with tmp
 Now with newtest KTM-6
+New test with terminal using a huge line
+
